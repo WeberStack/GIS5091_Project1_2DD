@@ -9,7 +9,7 @@ require(["esri/Map", "esri/views/MapView", "esri/layers/FeatureLayer","esri/core
       });
 
           var template = {
-          title: "Earthquake Info",
+          title: "School Name",
           content: "SChhol {Facility}"
         };
 
